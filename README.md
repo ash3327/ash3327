@@ -1,20 +1,20 @@
 ### WELLCOME :) 👋
 
-My name is ah sam ~
-Student of the Chinese University of Hong Kong
-Junior developer
-Had experience of programming of around 5 years (starting from from 14 years old)
+My name is ah sam ~<br>
+Student of the Chinese University of Hong Kong<br>
+Junior developer<br>
+Had experience of programming of around 5 years (starting from from 14 years old)<br>
 
-Intersted in: Artificial Intelligence, Game Development
-Learning on:  Deep Learning
-Will be learning: Network Infrastructure, Electronic Engineering, Quantum Computing
+Intersted in: Artificial Intelligence, Game Development<br>
+Learning on:  Deep Learning<br>
+Will be learning: Network Infrastructure, Electronic Engineering, Quantum Computing<br>
 
-Current Projects: 
-  Archaic RPG Game (Storyline unfinished)
-Working on: Image Recognition
-May work on in the future: Image Segmentation, Reinforcement Learning (Application in Games), Image Customization, Deepfake?, Unity / Unreal (either)
+Current Projects: <br>
+<ul><li>Archaic RPG Game (Storyline unfinished)</li></ul>
+Working on: Image Recognition<br>
+May work on in the future: Image Segmentation, Reinforcement Learning (Application in Games), Image Customization, Deepfake?, Unity / Unreal (either)<br>
 
-Yeh and that's it.
+Yeh and that's it.<br>
 
 <!--
 **ash3327/ash3327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
