@@ -2,7 +2,7 @@
 
 My name is Sam ~<br>
 Student of the Chinese University of Hong Kong<br>
-Had experience of programming starting from from 14 years old (2017)<br>
+Had experience of programming starting from 14 years old (2017)<br>
 
 Intersted in: Artificial Intelligence, Game Development<br>
 Learning on:  Deep Learning<br>
