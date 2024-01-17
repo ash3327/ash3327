@@ -11,7 +11,7 @@ Will be learning: Network Infrastructure, Electronic Engineering, Quantum Comput
 Current Projects: OASIS calendar app<br>
 Work in the past: Archaic RPG game (abandoned), Image Recognition, Image Segmentation (U-Net), Q-learning<br>
 Learning:  Image Recognition, Image Segmentation, Reinforcement Learning<br>
-This semester: Image Recognition, Image Segmentation, Reinforcement Learning, Natural Language Processing
+This semester: Image Recognition, Image Segmentation, Reinforcement Learning, Natural Language Processing <br>
 May work on in the future: Image Recognition, Image Segmentation, Reinforcement Learning (Application in Games), Image Customization, Deepfake?, Unity / Unreal (either)<br>
 
 Yeh and that's it.<br>
