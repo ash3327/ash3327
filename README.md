@@ -1,18 +1,18 @@
 ### WELLCOME :) 👋
 
-My name is ah sam ~<br>
+My name is Sam ~<br>
 Student of the Chinese University of Hong Kong<br>
-Junior developer<br>
-Had experience of programming of around 5 years (starting from from 14 years old)<br>
+Had experience of programming starting from from 14 years old (2017)<br>
 
 Intersted in: Artificial Intelligence, Game Development<br>
 Learning on:  Deep Learning<br>
 Will be learning: Network Infrastructure, Electronic Engineering, Quantum Computing<br>
 
-Current Projects: <br>
-<ul><li>Archaic RPG Game (Storyline unfinished)</li></ul>
-Working on: Image Recognition<br>
-May work on in the future: Image Segmentation, Reinforcement Learning (Application in Games), Image Customization, Deepfake?, Unity / Unreal (either)<br>
+Current Projects: OASIS calendar app<br>
+Work in the past: Archaic RPG game (abandoned), Image Recognition, Image Segmentation (U-Net), Q-learning<br>
+Learning:  Image Recognition, Image Segmentation, Reinforcement Learning<br>
+This semester: Image Recognition, Image Segmentation, Reinforcement Learning, Natural Language Processing
+May work on in the future: Image Recognition, Image Segmentation, Reinforcement Learning (Application in Games), Image Customization, Deepfake?, Unity / Unreal (either)<br>
 
 Yeh and that's it.<br>
 
