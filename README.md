@@ -16,7 +16,7 @@ Have interest in programming since 14 years old (2017)<br>
  - Calendar App Project “Oasis” [Self Project] (March 2023 - Ongoing) #Java #Database #Android
     - Independently developed a mobile event planning and notification application for Android using Java, aiming to help users track their deadlines and events
     - Worked across the development lifecycle to build and maintain code
-    - Migrated the data storage and retrieval to the more robust RoomDatabase
+    - Migrated the data storage and retrieval to the more robust RoomDatabase with extensive use of SQL queries
     - Refactored codebase into distinct UI layers and business logic components
     - Link: https://github.com/ash3327/OasisPlanner
     - Latest Release: Still in development phase.
