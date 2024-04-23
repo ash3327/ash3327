@@ -13,7 +13,7 @@ Have interest in programming since 14 years old (2017)<br>
  - **Planned To Learn:** Network Infrastructure, NodeJS, Reinforcement Learning (Application in Games), GANs and Diffusion models, Unity/Unreal, etc.
 
 **Current Projects:** 
- - Calendar App Project “Oasis” [Self Project] (March 2023 - Ongoing)
+ - Calendar App Project “Oasis” [Self Project] (March 2023 - Ongoing) #Java #Database #Android
     - Independently developed a mobile event planning and notification application for Android using Java, aiming to help users track their deadlines and events
     - Worked across the development lifecycle to build and maintain code
     - Migrated the data storage and retrieval to the more robust RoomDatabase
@@ -26,7 +26,7 @@ Have interest in programming since 14 years old (2017)<br>
         <img src="https://github.com/ash3327/ash3327/assets/86100752/82471662-dfac-44f0-bbc5-c06190d2a21e" width=200/>
 
 **Course Work:**
- - Peer-to-Peer Communication App (January - April 2024)
+ - Peer-to-Peer Communication App (January - April 2024) #Python
    - Collaborated with 2 groupmates on the 2-stage Python project (left: stage 1, right: stage 2).
    - Implemented GUI for audio recording, waveform display and other functions.
    - Implemented synchronization mechanism for audio and video packets sent through socket.
@@ -35,12 +35,12 @@ Have interest in programming since 14 years old (2017)<br>
      <img src="https://github.com/ash3327/ash3327/assets/86100752/80232a12-855b-45cb-831b-8f1ec1e53d79" width=400/>
      <img src="https://github.com/ash3327/ash3327/assets/86100752/6723681d-2084-4c47-8f9f-855b728c8d07" width=400/>
      
- - Protein Sequence Classification Kaggle Competition (March 2024)
-   - Applied pretrained ProtTrans transformer model and trained a fully-connected classifier head.
+ - Protein Sequence Classification Kaggle Competition (March 2024) #Python #PyTorch
+   - Applied pretrained ProtTrans transformer model and trained a fully-connected classifier head in Python.
    - Achieved 98.438% accuracy on public leaderboard and 94.161% accuracy on private leaderboard.
    - Competition Link: https://www.kaggle.com/competitions/aist4010-spring2024-a2/leaderboard?tab=public
  
- - Deep Q-Learning Shooter Game Project “SnowFight” [Group Project] (October - December 2022)
+ - Deep Q-Learning Shooter Game Project “SnowFight” [Group Project] (October - December 2022) #Python #ReinforcementLearning
    - Created a Gym environment of a simple third-person shooter game in Python
    - Led the project and planned an efficient work schedule, while collaborating closely with groupmate throughout the development
    - Implemented a simple Deep-Q Network with PyTorch to train agents to master at the game (left image)
@@ -51,7 +51,7 @@ Have interest in programming since 14 years old (2017)<br>
       <img src="https://github.com/ash3327/ash3327/assets/86100752/9ac9a3e3-8e36-436c-bbd9-48b80c06e2d6" width=400/>
  
 **Work in the past:**
- - Image Segmentation (YOLO-v5) [Self Learning] (June 2023)
+ - Image Segmentation (YOLO-v5) [Self Learning] (June 2023) #Python
    - Applied the YOLO-v5 model for real-time tracking of cars.
    - Referred to an online tutorial while doing so.
    - Applied Abrewley's Sort Library and self-implemented instance label assigning function based on maximum overlap to stablize the labelled id on each car moving across frames.
@@ -59,13 +59,13 @@ Have interest in programming since 14 years old (2017)<br>
 
      <img src="https://github.com/ash3327/ash3327/assets/86100752/ed33e608-a5b3-4d1f-8e87-06367a4b2d21" width=300/>
 
- - Q-learning Project on the Game 2048 (December 2022 - January 2023)
+ - Q-learning Project on the Game 2048 (December 2022 - January 2023) #Python #Keras #Tensorflow
    - Created a Python environment of the game 2048
    - Implemented a simple Deep-Q Network with PyTorch and trained agent to consistently achieve the 512 tile, a challenging milestone for new players
    - Performance is not very good
    - Link: https://github.com/ash3327/2048-QLearning-v1
    
- - Image Segmentation (U-Net) [Self Learning] (August 2022, reworked on August 2023)
+ - Image Segmentation (U-Net) [Self Learning] (August 2022, reworked on August 2023) #Python #PyTorch
    - Trained a U-Net model for semantic segmentation from scratch on the Cityscape dataset and Carvana dataset.
    - Test Pixel Accuracy of 0.9955 and dice score of 0.9911 for Carvana dataset.
    - Test Pixel Accuracy of 0.8669 for Cityscape dataset.
@@ -73,13 +73,13 @@ Have interest in programming since 14 years old (2017)<br>
 
      <img src="https://github.com/ash3327/ash3327/assets/86100752/350bb431-2e78-4d07-af59-ba7cec4b5baa" width=300/>
 
- - GANs [Self Learning] (August 2022)
+ - GANs [Self Learning] (August 2022) #Python #Tensorflow
    - Self-learn various GAN architectures from vanilla GAN, conditional GAN to WGAN.
    - Link: https://github.com/ash3327/GAN-self-learn-v1
 
      <img src="https://github.com/ash3327/ash3327/assets/86100752/b526e85e-1ae8-42e7-a366-3b562dc16b0d" width=200/>
     
- - RegSubjer [Self Project] (v1 on August 2021, v2 reworked on January 2022)
+ - RegSubjer [Self Project] (v1 on August 2021, v2 reworked on January 2022) #Java
     - Helps students register their courses (especially those in CUHK) efficiently.
     - Users can set a fixed time when the required mouse click is enforced.
     - Time synchronized with HKO clock.
@@ -89,7 +89,7 @@ Have interest in programming since 14 years old (2017)<br>
 
        <img src="https://github.com/ash3327/ash3327/assets/86100752/3beff101-8f41-4bdd-a89c-3b2638b7caa3" width=600 height=300/>
 
- - Archaic RPG game [Abandoned] (January 2020 - November 2021)
+ - Archaic RPG game [Abandoned] (January 2020 - November 2021) #Java
     - Consists of two parts - a MapCreater (left), and a GamePlayer (right).
       
        <img src="https://github.com/ash3327/ash3327/assets/86100752/746b60b2-b805-4f3f-bf24-3a3304e682b5" width=400/>
