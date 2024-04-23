@@ -2,7 +2,7 @@
 
 I am Sam, TAM Ka Ho.<br>
 Year-3 Student of the Chinese University of Hong Kong<br>
-Had interest in programming since 14 years old (2017)<br>
+Have interest in programming since 14 years old (2017)<br>
 
 **Description:** Hardworking and passionate third-year student in Artificial Intelligence, targeting an internship role in Artificial Intelligence engineer or software engineer, eagar to apply knowledge in machine learning and deep learning to drive innovative and practical solutions to real life problems.
 
