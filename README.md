@@ -12,10 +12,11 @@ Have interest in programming since 14 years old (2017)<br>
  - **Past Courses:** Image Recognition, Image Segmentation, Reinforcement Learning, PCA, Clustering, GAN (up to WGAN)
  - **Planned To Learn:** Network Infrastructure, NodeJS, Reinforcement Learning (Application in Games), GANs and Diffusion models, Unity/Unreal, etc.
 
- - Familiar with Python, Tensorflow, PyTorch, Java through comprehensive coursework and self-motivated projects
- - Basic familiarity with C, C++, MatLab in coursework
- - Less experienced in JavaScript and C# but is willing to learn
- - No experience in NodeJS but is willing to learn
+ - **Skills:**
+   - Familiar with Python, Tensorflow, PyTorch, Java through comprehensive coursework and self-motivated projects
+   - Basic familiarity with C, C++, MatLab in coursework
+   - Less experienced in JavaScript and C# but is willing to learn
+   - No experience in NodeJS but is willing to learn
 
 **Current Projects:** 
  - Calendar App Project “Oasis” [Self Project] (March 2023 - Ongoing) #Java #Database #Android
