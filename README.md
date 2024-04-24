@@ -34,8 +34,8 @@ Have interest in programming since 14 years old (2017)<br>
 **Course Work:**
  - Peer-to-Peer Communication App (January - April 2024) #Python
    - Collaborated with 2 groupmates on the 2-stage Python project (left: stage 1, right: stage 2).
-   - Implemented GUI for audio recording, waveform display and other functions.
-   - Implemented synchronization mechanism for audio and video packets sent through socket.
+   - Implemented user interface, audio recording and other functions.
+   - Implemented synchronization mechanism for audio and video packets sent through sockets to minimize effects of lag and delay on user experience.
    - [Project scoring is not completed yet. Code WILL NOT be uploaded for now.]
   
      <img src="https://github.com/ash3327/ash3327/assets/86100752/80232a12-855b-45cb-831b-8f1ec1e53d79" width=400/>
