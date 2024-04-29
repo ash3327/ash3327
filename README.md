@@ -25,6 +25,7 @@ Have interest in programming since 14 years old (2017)<br>
     - Migrated the data storage and retrieval to the more robust RoomDatabase with extensive use of SQL queries
     - Refactored codebase into distinct UI layers and business logic components
     - Link: https://github.com/ash3327/OasisPlanner
+    - More Info: https://github.com/ash3327/OasisPlanner/blob/development/README.md
     - Latest Release: Still in development phase.
       
         <img src="https://github.com/ash3327/ash3327/assets/86100752/3548ccde-c41b-440f-af3d-4f35303066e4" width=200/>
