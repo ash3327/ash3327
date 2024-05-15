@@ -17,8 +17,22 @@ Have interest in programming since 14 years old (2017)<br>
    - Basic familiarity with C, C++, MatLab in coursework
    - Less experienced in JavaScript and C# but is willing to learn
    - No experience in NodeJS but is willing to learn
+  
+**Personal Webpage:** [https://ash3327.github.io/](https://ash3327.github.io/)
+
+<br>
 
 **Current Projects:** 
+ - Personal Website [Self Project] (May 2024) #Javascript #CSS
+    - Simple webpage built with Javascript and css.
+    - Loads data from json files.
+    - Dynamic timeline
+    - Link: https://github.com/ash3327/ash3327.github.io
+    - Note: More functionalities and information will be added later
+
+      <img src="https://github.com/ash3327/ash3327/assets/86100752/59834889-421a-4aec-9d6c-19ebeac7e6d8" height=250/>
+
+  
  - Calendar App Project “Oasis” [Self Project] (March 2023 - Ongoing) #Java #Database #Android
     - Independently developed a mobile event planning and notification application for Android using Java, aiming to help users track their deadlines and events
     - Worked across the development lifecycle to build and maintain code
