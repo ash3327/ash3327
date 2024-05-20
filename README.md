@@ -95,7 +95,7 @@ Have interest in programming since 14 years old (2017)<br>
 
      <img src="https://github.com/ash3327/ash3327/assets/86100752/350bb431-2e78-4d07-af59-ba7cec4b5baa" width=300/>
 
- - GANs [Self Learning] (August 2022) #Python #Tensorflow
+ - GANs [Self Learning] (August 2022) #Python #PyTorch #TensorBoard
    - Self-learn various GAN architectures from vanilla GAN, conditional GAN to WGAN.
    - Link: https://github.com/ash3327/GAN-self-learn-v1
 
