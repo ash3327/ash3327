@@ -60,6 +60,7 @@ Have interest in programming since 14 years old (2017)<br>
    - Applied pretrained ProtTrans transformer model and trained a fully-connected classifier head in Python.
    - Achieved 98.438% accuracy on public leaderboard and 94.161% accuracy on private leaderboard.
    - Competition Link: https://www.kaggle.com/competitions/aist4010-spring2024-a2/leaderboard?tab=public
+   - Link: https://github.com/ash3327/aist4010-coursework-asm2-protein-transformer
  
  - Deep Q-Learning Shooter Game Project “SnowFight” [Group Project] (October - December 2022) #Python #ReinforcementLearning
    - Created a Gym environment of a simple third-person shooter game in Python
