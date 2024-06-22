@@ -7,10 +7,9 @@ Have interest in programming since 14 years old (2017)<br>
 **Description:** Hardworking and passionate third-year student in Artificial Intelligence, targeting an internship role in Artificial Intelligence engineer or software engineer, eagar to apply knowledge in machine learning and deep learning to drive innovative and practical solutions to real life problems.
 
  - **Intersted In:** Artificial Intelligence, Game Development, Software Development
- - **Learning On:**  Deep Learning, App Development
- - **This Semester:** Image Recognition, Image Segmentation, Reinforcement Learning, Natural Language Processing 
- - **Past Courses:** Image Recognition, Image Segmentation, Reinforcement Learning, PCA, Clustering, GAN (up to WGAN)
- - **Planned To Learn:** Network Infrastructure, NodeJS, Reinforcement Learning (Application in Games), GANs and Diffusion models, Unity/Unreal, etc.
+ - **Learning On:**  LLaMa finetuning with LoRA, Docker, Flask
+ - **Past Courses:** Natural Language Processing, Image Recognition, Image Segmentation, Reinforcement Learning, PCA, Clustering, GAN (up to WGAN)
+ - **Planned To Learn:** React, NodeJS, Reinforcement Learning (Application in Games), GANs and Diffusion models, Unity/Unreal, etc.
 
  - **Skills:**
    - Familiar with Python, Tensorflow, PyTorch, Java through comprehensive coursework and self-motivated projects
