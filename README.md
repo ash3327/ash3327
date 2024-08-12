@@ -31,8 +31,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/ash3327/OasisPlanner" target="_blank">
-        <img src="https://github.com/ash3327/ash3327/assets/86100752/3548ccde-c41b-440f-af3d-4f35303066e4" width=150/>
-        <img src="https://github.com/ash3327/ash3327/assets/86100752/43f12dbf-4ab5-45ec-9f50-6086b3f7e601" width=150/>
+        <img src="https://github.com/user-attachments/assets/a323a8c3-024d-4921-9226-ca3056a0b15e" width=300 height=300/>
       </a>
     </td>
     <td align="center">
