@@ -7,10 +7,15 @@
 - Graduating with a major in AI in Summer 2025.
 
 - 🚀 **Skills:**
-    - **AI**: Python, Tensorflow, PyTorch, HuggingFace, Keras
+    - **AI**: 
+        - **Frameworks**: Python, Tensorflow, PyTorch, HuggingFace, Keras
+        - **Models**: 
+            - **Reinforcement Learning**: Deep Q-Learning
+            - **Vision**: ResNet, U-Net, Diffusion
+            - **NLP**: RNN, LSTM, BERT, LLaMa
     - **Backend**: Python, Java, MySQL, Docker, Flask
     - **Frontend**: JavaScript, CSS, HTML
-    - **Learning**: Node.js, React
+    - **Planning to Learn**: Node.js, React
 
 - 📅 **Weird Facts:**
     - Have spent some time on learning non-Euclidean geometry and Tensor Calculus.
