@@ -11,7 +11,7 @@
         - **Frameworks**: Python, Tensorflow, PyTorch, HuggingFace, Keras
         - **Models**: 
             - **Reinforcement Learning**: Deep Q-Learning
-            - **Vision**: ResNet, U-Net, Diffusion
+            - **Vision**: ResNet, U-Net, GANs, Diffusion
             - **NLP**: RNN, LSTM, BERT, LLaMa
     - **Backend**: Python, Java, MySQL, Docker, Flask
     - **Frontend**: JavaScript, CSS, HTML
