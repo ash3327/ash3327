@@ -36,7 +36,7 @@ Sep 2024 - Nov 2024 | Part-time
 <table align="center">
   <tr>
     <th align="center">Oasis: The Calendar App (Jun 2024)</th>
-    <th align="center">SnowFight: Deep Q-Learning Game (Dec 2022)</th>
+    <th align="center">SnowFight: Deep Q-Learning Agent for Third-Person Shooter Game (Dec 2022)</th>
     <th align="center">RegSubjer:<br>Course Registration with Autoclicker (Jan 2022)</th>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Sep 2024 - Nov 2024 | Part-time
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ash3327?tab=repositories&sort=stargazers" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Projects-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
@@ -79,11 +79,50 @@ Sep 2024 - Nov 2024 | Part-time
   <a href="https://ash3327.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
   </a>
-</div>
+</div> -->
 
 ---
 
-## Deep Q-Learning Shooter Game Project "SnowFight" [![](https://img.shields.io/badge/Updated-Dec%202022-blue.svg)]() [![ImageSegmentation-UNet](https://img.shields.io/badge/GitHub-SnowFight-orange.svg?logo=github)](https://github.com/ash3327/SnowFight) [![Report](https://img.shields.io/badge/Report-4285F4?style=flat&logo=github&logoColor=white)](https://github.com/ash3327/SnowFight/blob/main/project%20report%20-%20group%205.pdf) ![Group Project](https://img.shields.io/badge/Group_Project-FF9900?style=flat) ![Project](https://img.shields.io/badge/Project-red.svg) 
+### Calendar App Project “Oasis”
+*Mar 2023 - Present*
+
+* Independently developed a mobile event planning and notification application for Android using Java, aiming to help users track their deadlines and events
+* Worked across the development lifecycle to build and maintain code
+* Migrated the data storage and retrieval to the more robust RoomDatabase with extensive use of SQL queries
+* Refactored codebase into distinct UI layers and business logic components
+
+Others:
+* Link: https://github.com/ash3327/OasisPlanner/tree/development
+* Latest Release: Still in development phase.
+* Skills: Java · RoomDatabase · SQL
+
+### AI Music Project
+*Sep 2024 - Dec 2024*
+
+* Gesture detection and mapping into the 3d scene with three.js
+* Beatmap generation via librosa
+
+https://github.com/ash3327/ai_music_project
+
+### Peer-to-Peer Communication App
+*Jan 2024 - Apr 2024*
+
+https://github.com/ash3327/Peer-to-Peer-Communication-App
+
+* Created a peer-to-peer communication app supporting audio recording, waveform display and editing, and also screen share function
+* Implemented GUI for audio recording, waveform display and other functions.
+* Implemented synchronization mechanism for audio and video packets sent through socket.
+* Skills: Python
+
+### Archaic RPG game
+* A customizable RPG game with map creation tools.
+* Developed a GamePlayer feature allowing users to play their maps or load other people's maps.
+* Created a MapCreator tool for users to change landscape tiles, place items, monsters, and NPCs, and add multiple levels to their maps.
+* Implemented a Custom Code Editor enabling users to customize map interactions, including NPC interactions through custom coding.
+* Link: https://github.com/ash3327/ArchaicBitmapGame
+* Skills: Java
+
+## Deep Q-Learning Agent for Third-Person Shooter Game [![](https://img.shields.io/badge/Updated-Dec%202022-blue.svg)]() [![ImageSegmentation-UNet](https://img.shields.io/badge/GitHub-SnowFight-orange.svg?logo=github)](https://github.com/ash3327/SnowFight) [![Report](https://img.shields.io/badge/Report-4285F4?style=flat&logo=github&logoColor=white)](https://github.com/ash3327/SnowFight/blob/main/project%20report%20-%20group%205.pdf) ![Group Project](https://img.shields.io/badge/Group_Project-FF9900?style=flat) ![Project](https://img.shields.io/badge/Project-red.svg) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Gymnasium](https://img.shields.io/badge/Gymnasium-8B9467?style=flat&logo=openai)](https://gymnasium.farama.org/index.html)
 [![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-00BFFF?style=flat)]()
