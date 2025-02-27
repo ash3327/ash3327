@@ -30,32 +30,49 @@
 
 ## 🛠️ Technical Skills
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:20px;">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+### Programming
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:15px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=gray" alt="C/C++ (less familiar)">
+</div>
+
+### Web & Backend
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:15px;">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/HuggingFace-FF9D00?style=flat&logo=huggingface&logoColor=white" alt="HuggingFace">
-  <img src="https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React%20(*less%20familiar)-61DAFB?style=flat&logo=react&logoColor=black" alt="React (less familiar)">
 </div>
+
+### AI/ML
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:15px;">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Pandas-250458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib">
+</div>
+
+### Specializations
+<ul>
+  <li><b>Computer Vision:</b> ResNet, U-Net, Vision Transformers (ViT), GANs, Diffusion</li>
+  <li><b>Natural Language Processing:</b> LSTM, BERT, LLaMa</li>
+  <li><b>Reinforcement Learning:</b> Deep Q-Networks (DQN)</li>
+</ul>
 
 ## 📊 Software Development Projects
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/a323a8c3-024d-4921-9226-ca3056a0b15e" width="250" height="150" style="object-fit:cover; border-radius:5px;">
-      <p><b><a href="https://github.com/ash3327/OasisPlanner/tree/development">Event-Planning App "Oasis"</a></b><br>Android event planning app with robust notification system and SQL database</p>
+      <img src="docs/oasis/image.png" width="250" height="250" style="object-fit:cover; border-radius:5px;">
+      <p><b><a href="https://github.com/ash3327/OasisPlanner/tree/development">Event-Planning App "Oasis"</a></b><br>Android event planning app with robust notification system and SQL database; <br> Managed lifecycle of the app and implemented with first MVC, then migrated partially to the MVVM design pattern.</p>
       <div>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android">
@@ -63,8 +80,8 @@
       </div>
     </td>
     <td width="33%" align="center">
-      <img src="docs/p2p/image.png" width="250" height="150" style="object-fit:cover; border-radius:5px;">
-      <p><b><a href="https://github.com/ash3327/Peer-to-Peer-Communication-App">P2P Communication App</a></b><br>Real-time audio/video streaming with optimized packet synchronization</p>
+      <img src="docs/p2p/image.png" width="250" height="250" style="object-fit:cover; border-radius:5px;">
+      <p><b><a href="https://github.com/ash3327/Peer-to-Peer-Communication-App">P2P Communication App</a></b><br>Real-time audio/video streaming with optimized packet synchronization;<br>Implemented socket-based communication protocol for reliable audio and video packet synchronization.</p>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
       </div>
@@ -73,7 +90,7 @@
   
   <tr>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/8baf9705-df8c-4380-9f41-b30560529711" width="250" height="150" style="object-fit:cover; border-radius:5px;">
+      <img src="https://github.com/user-attachments/assets/8baf9705-df8c-4380-9f41-b30560529711" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/RegSubjer">RegSubjer: Course Registration Autoclicker</a></b><br>Automated course registration tool</p>
       <div>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
@@ -81,7 +98,7 @@
       </div>
     </td>
     <td width="33%" align="center">
-      <img src="docs/game/image.png" width="250" height="150" style="object-fit:cover; border-radius:5px;">
+      <img src="docs/game/image.png" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/ArchaicBitmapGame">Java Handcrafted 2D RPG Game</a></b><br>A customizable RPG game with map creation tools</p>
       <div>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
@@ -95,7 +112,7 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="docs/vit/image4.png" width="250" height="150" style="object-fit:cover; border-radius:5px;">
+      <img src="docs/vit/image4.png" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/proj-vision-transformer">Vision Transformer Analysis</a></b><br>Comparative study of Vision Transformers vs CNNs on small datasets</p>
       <div>
         <a href="https://github.com/ash3327/proj-vision-transformer/blob/master/project-final-report-1155175983.pdf"><img src="https://img.shields.io/badge/Report-4285F4?style=flat&logo=github&logoColor=white" alt="Report"/></a>
@@ -104,7 +121,7 @@
       </div>
     </td>
     <td width="33%" align="center">
-      <img src="docs/prottrans/image.png" width="250" height="150" style="object-fit:cover; border-radius:5px;">
+      <img src="docs/prottrans/image.png" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/aist4010-coursework-asm2-protein-transformer">ARG Prediction with Transformers</a></b><br>Fine-tuned ProtTrans model for antibiotic resistance gene classification with 0.94 F-score</p>
       <div>
         <a href="https://github.com/ash3327/aist4010-coursework-asm2-protein-transformer/blob/main/report.pdf"><img src="https://img.shields.io/badge/Report-4285F4?style=flat&logo=github&logoColor=white" alt="Report"/></a>
@@ -113,7 +130,7 @@
       </div>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/ash3327/ash3327/assets/86100752/60f36fa1-d6fd-490b-b275-19bb1cbe9715" width="250" height="150" style="object-fit:cover; border-radius:5px;">
+      <img src="https://github.com/ash3327/ash3327/assets/86100752/60f36fa1-d6fd-490b-b275-19bb1cbe9715" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/SnowFight">Deep Q-Learning Agent for Third-Person Shooter Game "SnowFight"</a></b><br>Reinforcement learning agent achieving 30× higher performance in custom Gym environment</p>
       <div>
         <a href="https://github.com/ash3327/SnowFight/blob/main/project%20report%20-%20group%205.pdf"><img src="https://img.shields.io/badge/Report-4285F4?style=flat&logo=github&logoColor=white" alt="Report"/></a>
@@ -125,7 +142,7 @@
   </tr>
   <tr>
     <td width="33%" align="center">
-      <img src="docs/unet/unet_1.png" width="250" height="150" style="object-fit:cover; border-radius:5px;">
+      <img src="docs/unet/unet_1.png" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/ImageSegmentation-UNet">U-Net Segmentation</a></b><br>99.55% pixel accuracy on Carvana dataset</p>
       <div>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -133,15 +150,15 @@
       </div>
     </td>
     <td width="33%" align="center">
-      <img src="docs/yolo-1/vid3.gif" width="250" height="150" style="object-fit:cover; border-radius:5px;">
-      <p><b><a href="https://github.com/ash3327/ObjectDetection-v1">YOLO Object Tracking</a></b><br>Real-time performance on video detection</p>
+      <img src="docs/yolo-1/vid3.gif" width="250" height="250" style="object-fit:cover; border-radius:5px;">
+      <p><b><a href="https://github.com/ash3327/ObjectDetection-v1">YOLO Object Tracking</a></b><br>Improved instance tracking with custom algorithm from outputs of YOLOv8</p>
       <div>
         <img src="https://img.shields.io/badge/YOLO-FF69B4?style=flat" alt="YOLO">
         <img src="https://img.shields.io/badge/Object_Detection-EE4C2C?style=flat" alt="Object Detection">
       </div>
     </td>
     <td width="33%" align="center">
-      <img src="docs/gan/v5.gif" width="250" height="150" style="object-fit:cover; border-radius:5px;">
+      <img src="docs/gan/v5.gif" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/GAN-self-learn-v1">GAN Generation</a></b><br>WGAN implementation on MNIST dataset</p>
       <div>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -152,14 +169,4 @@
 </table>
 
 ## 🌐 Languages
-<div style="display:flex; gap:20px; margin-bottom:20px;">
-  <div style="text-align:center;">
-    <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge">
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.shields.io/badge/Cantonese-Native-4285F4?style=for-the-badge">
-  </div>
-  <div style="text-align:center;">
-    <img src="https://img.shields.io/badge/Mandarin-Native-4285F4?style=for-the-badge">
-  </div>
-</div>
+<img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Cantonese-Native-4285F4?style=for-the-badge"> <img src="https://img.shields.io/badge/Mandarin-Native-4285F4?style=for-the-badge">
