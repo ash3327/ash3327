@@ -3,10 +3,12 @@
 <div align="center">
   <h3>Fresh Graduate | Entry-Level Machine Learning Engineer & Software Developer</h3>
   
-  <a href="https://ash3327.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/khtam-51a008256"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <!-- <a href="https://ash3327.github.io"><img src="https://img.shields.io/badge/Portfolio%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a> -->
+  <a href="https://ash3327.github.io/personalblog"><img src="https://img.shields.io/badge/Portfolio%20Website-0097A7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog"/></a>
+  <a href="https://www.linkedin.com/in/khtam-51a008256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ash3327.github.io/personalblog/img/docs/_resumes/CV_TAMKAHO_AI.pdf"><img src="https://img.shields.io/badge/Resume%20(AI)-4B0082?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
   
-  <p>Graduating with B.Eng. in Artificial Intelligence at CUHK (July 2025)<br>GPA: 3.74/4.00 (overall), 3.79/4.00 (major) | Dean's List 2021-24</p>
+  <p>Graduating with B.Eng. in Artificial Intelligence at CUHK (July 2025)<br>GPA: 3.755/4.00 (overall), 3.795/4.00 (major) | Dean's List 2021-24</p>
 </div>
 
 ## 🏆 Academic Achievements
@@ -77,6 +79,7 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android">
         <img src="https://img.shields.io/badge/RoomDB-005571?style=flat&logo=android&logoColor=white" alt="RoomDB">
+        <img src="https://img.shields.io/badge/Mar%202023-Jan%202024-4285F4?style=flat" alt="Duration"/>
       </div>
     </td>
     <td width="33%" align="center">
@@ -84,6 +87,7 @@
       <p><b><a href="https://github.com/ash3327/Peer-to-Peer-Communication-App">P2P Communication App</a></b><br>Real-time audio/video streaming with optimized packet synchronization;<br>Implemented socket-based communication protocol for reliable audio and video packet synchronization.</p>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Jan%202024-Apr%202024-4285F4?style=flat" alt="Duration"/>
       </div>
     </td>
   </tr>
@@ -95,6 +99,7 @@
       <div>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/NTPUDPClient-005571?style=flat&logo=java&logoColor=white" alt="NTPUDPClient">
+        <img src="https://img.shields.io/badge/Jan%202022-Jan%202022-4285F4?style=flat" alt="Duration"/>
       </div>
     </td>
     <td width="33%" align="center">
@@ -102,6 +107,7 @@
       <p><b><a href="https://github.com/ash3327/ArchaicBitmapGame">Java Handcrafted 2D RPG Game</a></b><br>A customizable RPG game with map creation tools</p>
       <div>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Jan%202020-Nov%202021-4285F4?style=flat" alt="Duration"/>
       </div>
     </td>
   </tr>
@@ -112,12 +118,24 @@
 <table>
   <tr>
     <td width="33%" align="center">
+      <img src="docs/fyp/image.png" width="250" height="250" style="object-fit:cover; border-radius:5px;">
+      <p><b><a href="https://github.com/ash3327/major-fyp-2024">General Hand Gesture Recognition</a></b><br>Unified contrastive learning framework for hand gesture recognition with curriculum-based augmentation</p>
+      <div>
+        <a href="https://github.com/ash3327/major-fyp-2024/blob/rework-1/docs/KTL2401_1155175983_1155174636_final_report_term2.pdf"><img src="https://img.shields.io/badge/Report-4285F4?style=flat&logo=github&logoColor=white" alt="Report"/></a>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/Computer_Vision-00BFFF?style=flat" alt="Computer Vision">
+        <img src="https://img.shields.io/badge/Contrastive_Learning-FF69B4?style=flat" alt="Contrastive Learning">
+        <img src="https://img.shields.io/badge/Sep%202024-Apr%202025-4285F4?style=flat" alt="Duration"/>
+      </div>
+    </td>
+    <td width="33%" align="center">
       <img src="docs/vit/image4.png" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/proj-vision-transformer">Vision Transformer Analysis</a></b><br>Comparative study of Vision Transformers vs CNNs on small datasets</p>
       <div>
         <a href="https://github.com/ash3327/proj-vision-transformer/blob/master/project-final-report-1155175983.pdf"><img src="https://img.shields.io/badge/Report-4285F4?style=flat&logo=github&logoColor=white" alt="Report"/></a>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
         <img src="https://img.shields.io/badge/Computer_Vision-00BFFF?style=flat" alt="Computer Vision">
+        <img src="https://img.shields.io/badge/Jun%202023-Apr%202024-4285F4?style=flat" alt="Duration"/>
       </div>
     </td>
     <td width="33%" align="center">
@@ -127,8 +145,11 @@
         <a href="https://github.com/ash3327/aist4010-coursework-asm2-protein-transformer/blob/main/report.pdf"><img src="https://img.shields.io/badge/Report-4285F4?style=flat&logo=github&logoColor=white" alt="Report"/></a>
         <img src="https://img.shields.io/badge/Transformers-FFD700?style=flat" alt="Transformers">
         <img src="https://img.shields.io/badge/Bioinformatics-4B0082?style=flat" alt="Bioinformatics">
+        <img src="https://img.shields.io/badge/Feb%202024-Mar%202024-4285F4?style=flat" alt="Duration"/>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="33%" align="center">
       <img src="https://github.com/ash3327/ash3327/assets/86100752/60f36fa1-d6fd-490b-b275-19bb1cbe9715" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/SnowFight">Deep Q-Learning Agent for Third-Person Shooter Game "SnowFight"</a></b><br>Reinforcement learning agent achieving 30× higher performance in custom Gym environment</p>
@@ -137,16 +158,16 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/Gymnasium-8B9467?style=flat&logo=openai" alt="Gymnasium">
         <img src="https://img.shields.io/badge/Reinforcement_Learning-00BFFF?style=flat" alt="Reinforcement Learning">
+        <img src="https://img.shields.io/badge/Oct%202023-Dec%202023-4285F4?style=flat" alt="Duration"/>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="33%" align="center">
       <img src="docs/unet/unet_1.png" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/ImageSegmentation-UNet">U-Net Segmentation</a></b><br>99.55% pixel accuracy on Carvana dataset</p>
       <div>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
         <img src="https://img.shields.io/badge/Segmentation-red?style=flat" alt="Segmentation">
+        <img src="https://img.shields.io/badge/Jun%202023-Apr%202024-4285F4?style=flat" alt="Duration"/>
       </div>
     </td>
     <td width="33%" align="center">
@@ -155,14 +176,18 @@
       <div>
         <img src="https://img.shields.io/badge/YOLO-FF69B4?style=flat" alt="YOLO">
         <img src="https://img.shields.io/badge/Object_Detection-EE4C2C?style=flat" alt="Object Detection">
+        <img src="https://img.shields.io/badge/Jun%202023-Apr%202024-4285F4?style=flat" alt="Duration"/>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="33%" align="center">
       <img src="docs/gan/v5.gif" width="250" height="250" style="object-fit:cover; border-radius:5px;">
       <p><b><a href="https://github.com/ash3327/GAN-self-learn-v1">GAN Generation</a></b><br>WGAN implementation on MNIST dataset</p>
       <div>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
         <img src="https://img.shields.io/badge/GAN-blueviolet?style=flat" alt="GAN">
+        <img src="https://img.shields.io/badge/Jun%202023-Apr%202024-4285F4?style=flat" alt="Duration"/>
       </div>
     </td>
   </tr>
